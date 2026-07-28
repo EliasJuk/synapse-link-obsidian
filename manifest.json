@@ -1,0 +1,10 @@
+{
+  "id": "synapse-link",
+  "name": "SynapseLink",
+  "version": "0.1.0",
+  "minAppVersion": "1.12.0",
+  "description": "Conecte ideias, descubra relações entre notas e organize seu conhecimento com inteligência artificial local.",
+  "author": "Elias Juk",
+  "authorUrl": "https://github.com/EliasJuk",
+  "isDesktopOnly": false
+}
